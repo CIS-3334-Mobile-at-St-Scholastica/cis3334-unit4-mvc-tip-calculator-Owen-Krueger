@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity implements updateViewInterfa
 
     @Override
     public void updateView(Double totalTip, Double tipPerPerson) {
-        tvTotalTip.setText( "Total Tip: " + totalTip.toString());
-        tvTipPerPerson.setText( "Tip per Person: " + tipPerPerson.toString());
+        tvTotalTip.setText( "Total Tip: $" + totalTip.toString());
+        tvTipPerPerson.setText( "Tip Per Person: $" + tipPerPerson.toString());
     }
 }

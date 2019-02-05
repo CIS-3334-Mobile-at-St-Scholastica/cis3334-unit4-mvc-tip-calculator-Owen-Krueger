@@ -6,7 +6,8 @@
     <string name="bill_amount">Bill Amount</string>
     <string name="outstanding_service">Outstanding Service</string>
     <string name="number_of_people">Number of People</string>
-    <string name="total_tip">Total Tip:</string>
+    <string name="total_tip">Total Tip: $</string>
+    <string name="tip_per">Tip Per Person: $</string>
 
     <string-array name="num_array">
         <item>One</item>
